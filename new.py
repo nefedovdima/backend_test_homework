@@ -1,2 +1,0 @@
-print("just new file")
-
